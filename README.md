@@ -1,6 +1,6 @@
 # Library Dash
 
-This game was created by Riddhi Lamba in July 2023 during the Girls Who Code Summer Immersion Program to address the theme of "hope". It was inspired by the hope and joy that books can bring to a person's life and originally created on Repl.it using script.js.
+This game was created by Riddhi Lamba in July 2023 during the Girls Who Code Summer Immersion Program to address the theme of "hope". It was inspired by the hope and joy that books can bring to a person's life and originally created on Repl.it using the p5.js library.
  
 You can play it here: http://riddhi-l-gamejam.riddhil.repl.co/
 
